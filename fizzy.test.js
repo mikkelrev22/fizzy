@@ -1,5 +1,4 @@
-const { expect, should } = require('chai')
-const { assert } = require('mocha')
+const { expect } = require('chai')
 //test whether or not fizzy is a function
 describe('Fizzy', function(){
   it('should be a function', function(){

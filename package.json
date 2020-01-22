@@ -1,0 +1,24 @@
+{
+  "name": "fizzy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "fizzy.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mikkelrev22/fizzy.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mikkelrev22/fizzy/issues"
+  },
+  "homepage": "https://github.com/mikkelrev22/fizzy#readme",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^7.0.0"
+  }
+}

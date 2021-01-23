@@ -1,5 +1,6 @@
-version: '3.7'
-  services:
+version: "3.9"
+services:
     web:
       build: .
-      ports: 7001: 7001
+      ports: 
+        - "7001:7001"
